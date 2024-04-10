@@ -1,5 +1,6 @@
 # SafeTalk
-SafeTalk is a counseling support platform designed to offer anonymous users a safe space for seeking guidance and support. Our platform provides various features such as chat support, voice calls, and one-way video calls to facilitate effective communication between users and mentors.
+SafeTalk is a counseling support platform designed to offer anonymous users a safe space for seeking guidance and support. Our platform provides various features such as it provide you with
+random( 8letter char+no ) Anonymus ID without email and let you login and to facilitate effective communication and connection between users and  counselling mentors.
 
 # Features
 Chat Support: Users can engage in text-based conversations with trained mentors to discuss their concerns and seek guidance.
