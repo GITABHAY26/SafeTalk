@@ -3,7 +3,7 @@ SafeTalk is a counseling support platform designed to offer anonymous users a sa
 random( 8letter char+no ) Anonymus ID without email and let you login and to facilitate effective communication and connection between users and  counselling mentors.
 
 ## Project Video Demo
-https://youtu.be/HXiyteKkm6s
+[![Project Video](https://img.youtube.com/vi/HXiyteKkm6s&ab_channel=ABHAYSonakiya/0.jpg)](https://www.youtube.com/watch?v=HXiyteKkm6s&ab_channel=ABHAYSonakiya)
 
 # Features
 Chat Support: Users can engage in text-based conversations with trained mentors to discuss their concerns and seek guidance.
