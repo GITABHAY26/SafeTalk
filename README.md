@@ -1,7 +1,7 @@
-SafeTalk
+# SafeTalk
 SafeTalk is a counseling support platform designed to offer anonymous users a safe space for seeking guidance and support. Our platform provides various features such as chat support, voice calls, and one-way video calls to facilitate effective communication between users and mentors.
 
-Features
+# Features
 Chat Support: Users can engage in text-based conversations with trained mentors to discuss their concerns and seek guidance.
 
 Voice Call: Users have the option to initiate voice calls with mentors for more personalized support and assistance.
@@ -16,11 +16,5 @@ No Email Storage: SafeTalk prioritizes user privacy by not storing any emails or
 
 Mentor Signup: Mentors can sign up by providing complete details and portfolios, ensuring that users have access to qualified and experienced professionals.
 
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
