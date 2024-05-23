@@ -1,5 +1,5 @@
 export function Dashboard() {
     return (<div>
-        Dashboard page2
+        Dashboard page
     </div>)
 }
